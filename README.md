@@ -2,6 +2,14 @@
 
 This repository contains the completed assignment for the Data Analysis Internship position. The assignment includes tasks in Python, Excel, and SQL, covering data cleaning, analysis, visualization, and querying.
 
+## Dataset Information
+The dataset used in this assignment is the Adult Income Dataset, sourced from the UCI Machine Learning Repository. It contains demographic data to predict whether a person earns more than 50K per year. The dataset includes attributes such as age, workclass, education, occupation, and more.
+
+- **Source**: Adult Income Dataset
+- **Number of Instances**: 48,842 (train: 32,561, test: 16,281)
+- **Number of Attributes**: 14 features + 1 target (income bracket)
+- **Attributes**: Includes features like age, workclass, education, marital status, occupation, and others.
+
 ## Repository Contents
 
 - **Python Code**: [`adult_code.ipynb`](./adult_code.ipynb)
@@ -50,7 +58,7 @@ The SQL file (`adult_sql.sql`) covers:
 
 - Python 3.x
 - Pandas, Numpy, Matplotlib, Seaborn (for the Python analysis)
-- PostgreSQL (for SQL queries)
+- MySQL/MS-SQL/SQLite/PostgreSQL (for SQL queries)
 - Microsoft Excel or any compatible spreadsheet program
 
 ## License
