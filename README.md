@@ -1,8 +1,4 @@
-Here's a sample `README.md` file for your GitHub repository:
-
----
-
-# Data Analysis Internship Assignment
+# Adult Income Data Analysis
 
 This repository contains the completed assignment for the Data Analysis Internship position. The assignment includes tasks in Python, Excel, and SQL, covering data cleaning, analysis, visualization, and querying.
 
@@ -66,9 +62,4 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 For any questions or further information, please contact:
 
 **Priyanshu Ghosh**  
-[Your Email Address]  
-[Your LinkedIn Profile or Other Contact Information]
-
----
-
-This `README.md` file gives a clear overview of your project, guiding users on how to navigate and use the various files in your repository.
+[priyanshu.ghosh20@gmail.com] 
