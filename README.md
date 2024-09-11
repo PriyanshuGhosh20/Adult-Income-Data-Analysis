@@ -5,7 +5,7 @@ This repository contains the completed assignment for the Data Analysis Internsh
 ## Dataset Information
 The dataset used in this assignment is the Adult Income Dataset, sourced from the UCI Machine Learning Repository. It contains demographic data to predict whether a person earns more than 50K per year. The dataset includes attributes such as age, workclass, education, occupation, and more.
 
-- **Source**: Adult Income Dataset
+- **Source**: Adult Income Dataset [https://archive.ics.uci.edu/dataset/2/adult]
 - **Number of Instances**: 48,842 (train: 32,561, test: 16,281)
 - **Number of Attributes**: 14 features + 1 target (income bracket)
 - **Attributes**: Includes features like age, workclass, education, marital status, occupation, and others.
