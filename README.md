@@ -18,7 +18,7 @@ The dataset used in this assignment is the Adult Income Dataset, sourced from th
 - **Cleaned CSV File**: [`adult_cleaned.csv`](./adult_cleaned.csv)
   - The cleaned version of the Adult Income dataset after performing data preprocessing and transformations in Python. This file is used for further analysis in Excel and SQL.
 
-- **Excel File**: [`adult_pivot_analysis.xlsx`](./adult_pivot_analysis.xlsx)
+- **Excel File**: [`adult_pivot_analysis.xlsx`](./adult_pivot_analysis.xlsx.xls)
   - This Excel workbook contains pivot tables and charts derived from the cleaned dataset. It provides insights into the income distribution across various education levels and work classes.
 
 - **SQL Queries**: [`adult_sql.sql`](./adult_sql.sql)
