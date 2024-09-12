@@ -61,10 +61,6 @@ The SQL file (`adult_sql.sql`) covers:
 - MySQL/MS-SQL/SQLite/PostgreSQL (for SQL queries)
 - Microsoft Excel or any compatible spreadsheet program
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
 ## Contact
 
 For any questions or further information, please contact:
